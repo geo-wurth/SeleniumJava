@@ -1,0 +1,1 @@
+# Repositório para aprendizado na utilização do Selenium com o Java Maven
